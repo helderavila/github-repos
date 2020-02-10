@@ -1,4 +1,6 @@
-## GithubRepos
+<h1 align="center">
+   GithubRepos
+</h1>
 <h4 align="center">
   🚀 Aplicação desenvolvida gerenciamento de repositórios e issues
 </h4>
